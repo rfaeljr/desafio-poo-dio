@@ -1,4 +1,4 @@
-package br.com.dio.desafio.dominio;
+package br.old.dominio;
 
 import java.time.LocalDate;
 
